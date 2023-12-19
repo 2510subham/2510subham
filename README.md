@@ -7,6 +7,15 @@
 
 - 📫 How to reach me **subhamagarwal400@gmail.com**
 
+
+## Technologies & Tools
+
+- Programming Languages: C/C++, Python, Javascript, Typescript,SQL,GraphQL
+- Frontend: HTML, CSS, React, TailwindCSS
+- Backend: Node.js, Express, RESTful APIs
+- Database: MySQL, MongoDB, Redis
+- Version Control: Git
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subham-agarwal-7553651a1/" target="blank">LinkedIn</a>
