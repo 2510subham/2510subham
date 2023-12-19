@@ -11,7 +11,7 @@
 ## Technologies & Tools
 
 - Programming Languages: C/C++, Python, Javascript, Typescript,SQL,GraphQL
-- Frontend: HTML, CSS, React, TailwindCSS
+- Frontend: HTML, CSS, ReactJs,nextJs
 - Backend: Node.js, Express, RESTful APIs
 - Database: MySQL, MongoDB, Redis
 - Version Control: Git
