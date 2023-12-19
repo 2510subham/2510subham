@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **subhamagarwal400@gmail.com**
 
-
-## Technologies & Tools
+<h1 align="center">Technologies & Tools</h1>
 
 - Programming Languages: C/C++, Python, Javascript, Typescript,SQL,GraphQL
 - Frontend: HTML, CSS, ReactJs,nextJs
