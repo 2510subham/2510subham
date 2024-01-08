@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subham Agarwal</h1>
 <h3 align="center">FullStack Devoloper(MERN)</h3>
 
-- 🔭 I’m currently working on **FullStack Devolopment(MERN)**
+- 🔭 I’m currently working on **FullStack Devolopment**
 
-- 💬 Ask me about **devolopment**
+- 🌍 I am from **Kolkata**
+
+- 💬 Ask me about **Web devolopment**
 
 - 📫 How to reach me **subhamagarwal400@gmail.com**
 
