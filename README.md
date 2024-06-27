@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Agarwal</h1>
-<h3 align="center">FullStack Devoloper(MERN)</h3>
+<h3 align="center">FullStack Devoloper(PERN)</h3>
 
 - 🔭 I’m currently working on **FullStack Devolopment**
 
