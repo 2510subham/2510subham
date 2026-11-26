@@ -11,18 +11,6 @@ DESIGN: DARK ENGINEERING / BLUE ACCENTS
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Engineering+Scalable+Web+Applications;Building+Real-Time+Systems+%26+APIs;React+%7C+Node.js+%7C+TypeScript;Turning+Ideas+Into+Digital+Products" />
 
-<br/><br/>
-
-<a href="https://subhamagarwal.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
-</a>
-<a href="https://github.com/2510subham">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:subhamagarwal400@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=2510subham&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
@@ -76,7 +64,7 @@ DEVOPS & DEVELOPER TOOLS
 <img src="https://skillicons.dev/icons?i=docker,git,postman,grafana&theme=dark" />
 
 </div>
-04 / GITHUB ANALYTICS
+<br/>
 
 <div align="center">
 
